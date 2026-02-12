@@ -6,3 +6,4 @@ TEST TEST
 Системных файлов (.DS_Store, Thumbs.db)
 Файлов IDE и редакторов кода
 Логов и временных файлов
+New line in fix branch
